@@ -11,6 +11,7 @@ h4 {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+  text-decoration: underline;
 }
 
 .header {
@@ -24,9 +25,21 @@ video {
   display: block;
 margin: 0 auto;
 }
+img {
+  display: block;
+margin: 0 auto;
+}
 p {
   color: gray;
   font-size: 21px;
   font-family: verdana;
   text-align: center;
+}
+
+.cumsoon {
+  font-weight: 300;
+  font-family: verdana;
+  font-size: 42px;
+  text-align: center;
+  color: white;
 }
